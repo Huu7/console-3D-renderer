@@ -19,6 +19,7 @@ mono_crash.*
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
+[Rr]elease/
 [Rr]eleases/
 x64/
 x86/
@@ -357,3 +358,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# --- Custom Exceptions ---
+!console 3D renderer/x64/
+
+!console 3D renderer/x64/Release/
+
+!console 3D renderer/x64/Release/console 3D renderer.exe
